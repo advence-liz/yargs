@@ -20,8 +20,8 @@ var argv = yargs
   })
   .argv;
 
-console.log('Inspecting options');
-console.dir(argv);
+// console.log('Inspecting options');
+// console.dir(argv);
 
-console.log("input:", argv.input);
-console.log("output:", argv.output);
+// console.log("input:", argv.input);
+// console.log("output:", argv.output);
